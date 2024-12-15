@@ -22,7 +22,6 @@
 - [Cull Leaves](https://modrinth.com/mod/GNxdLCoP) [3\.4\.0]
 - [Detail Armor Bar](https://modrinth.com/mod/hAt6ty93) [2\.6\.3\+1\.21\-fabric]
 - [DisablePortalChecks](https://modrinth.com/mod/uOzKOGGt) [1\.0\.0]
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [2\.2\.1\-a]
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.7\.6]
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) [0\.10\.2\+1\.21]
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [2\.2\.6]
@@ -45,7 +44,6 @@
 - [Krypton](https://modrinth.com/mod/fQEb0iXm) [0\.2\.8]
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) [1\.3\.2]
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [3\.1\.3\+1\.21\.1]
-- [LibJF](https://modrinth.com/mod/WKwQAwke) [3\.17\.0]
 - [Litematica](https://modrinth.com/mod/bEpr0Arc) [0\.19\.53]
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.13\.1]
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0\.21\.4]
@@ -64,7 +62,6 @@
 - [Recipe Cooldown](https://modrinth.com/mod/7LEWYKTV) [1\.17\.1\-1\.0\.0]
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.0\-beta\.4\+mc1\.21\.1]
 - [Replay Mod](https://modrinth.com/mod/Nv2fQJo5) [1\.21\-2\.6\.20]
-- [Resource Pack Options](https://modrinth.com/mod/TiF5QWZY) [4\.10\.0]
 - [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) [0\.1\.0\+fabric\.26c6e72]
 - [ServerCore](https://modrinth.com/mod/4WWQxlQP) [1\.5\.4\+1\.21]
 - [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) [5\.1\.2\+1\.21]
@@ -86,6 +83,13 @@
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) [87\.0\.0]
 - [cupboard](https://www.curseforge.com/projects/326652) [1\.21\-2\.7]
 - [essential\-container](https://modrinth.com/mod/k2ZPuTBm) [1\.0\.0]
+
+### **Client-side only**
+
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [2\.2\.1\-a]
+- [LibJF](https://modrinth.com/mod/WKwQAwke) [3\.17\.0]
+- [Resource Pack Options](https://modrinth.com/mod/TiF5QWZY) [4\.10\.0]
+
 
 ### **Server-side only**
 
