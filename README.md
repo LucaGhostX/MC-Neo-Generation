@@ -86,7 +86,6 @@
 
 ### **Client-side only**
 
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [2\.2\.1\-a]
 - [LibJF](https://modrinth.com/mod/WKwQAwke) [3\.17\.0]
 - [Resource Pack Options](https://modrinth.com/mod/TiF5QWZY) [4\.10\.0]
 
