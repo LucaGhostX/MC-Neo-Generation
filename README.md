@@ -1,4 +1,4 @@
-## **Mod List Minecraft Neo-Generation by LucaGhostX**
+## **Mod List for 1.21 Minecraft Neo-Generation by LucaGhostX**
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.7\.2]
 - [AchievementOptimizer](https://www.curseforge.com/projects/912788) [1\.21\-1\.1\.0]
 - [Advanced Shulkerboxes](https://modrinth.com/mod/PZAaSx6B) [1\.21\.1\-2\.0\.5]
