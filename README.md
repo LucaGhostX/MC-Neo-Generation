@@ -44,7 +44,6 @@
 - [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) [1\.0\.5]
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [7\.0\.0]
 - [Freecam \(Modrinth Edition\)](https://modrinth.com/mod/XeEZ3fK2) [1\.3\.0\+mc1\.21]
-- [Function Compiler](https://modrinth.com/mod/fCDJbsBM) [0\.2\.2\-alpha\.2]
 - [Get It Together, Drops\!](https://modrinth.com/mod/T0OUgf8P) [fabric\-1\.21\-1\.3\.1]
 - [Gpu memory leak fix mod](https://www.curseforge.com/projects/882495) [1\.21\-1\.8]
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.3\.2\+1\.21\.1]
