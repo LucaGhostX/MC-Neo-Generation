@@ -98,3 +98,8 @@
 - [TT20](https://modrinth.com/mod/YS3ZignI) [0\.7\.0]
 - [ViaFabric](https://modrinth.com/mod/YlKdE5VK) [0\.4\.15\+78\-main]
 - [ViaVersion](https://modrinth.com/mod/P1OZGk5p) [5\.2\.0]
+
+### **Mods that I built myself** (These mods aren't available for 1.21)
+
+- [Configurable Nether Portal](https://modrinth.com/mod/configurable-nether-portals)
+- [Know My Name!](https://modrinth.com/mod/know-my-name)
