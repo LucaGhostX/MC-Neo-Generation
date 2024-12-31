@@ -53,6 +53,7 @@
 - [More Culling](https://modrinth.com/mod/51shyZVL) [1\.0\.0]
 - [MoreMcmeta](https://modrinth.com/mod/HFlxNpln) [1\.21\-4\.5\.0]
 - [Multi World Borders](https://modrinth.com/mod/M7MroYMU) [1\.6\.4\-fabric\-1\.20\.5\-rc2]
+- [NBT Copy](https://modrinth.com/mod/XIIGRXeq) [1\.0\.3]
 - [Noisium](https://modrinth.com/mod/KuNKN7d2) [2\.3\.0\+mc1\.21\-1\.21\.1]
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) [2\.3\.0\-beta\.6\+1\.21]
 - [Playit Fabric](https://modrinth.com/mod/xd3SgXSp) [1\.3\.2]
