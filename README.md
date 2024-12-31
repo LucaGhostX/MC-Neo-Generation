@@ -20,6 +20,7 @@
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.2\.0\+alpha\.11\.109\+1\.21]
 - [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.0\-beta\.5\+1\.21]
 - [Cull Leaves](https://modrinth.com/mod/GNxdLCoP) [3\.4\.0]
+- [cupboard](https://www.curseforge.com/projects/326652) [1\.21\-2\.7]
 - [Detail Armor Bar](https://modrinth.com/mod/hAt6ty93) [2\.6\.3\+1\.21\-fabric]
 - [DisablePortalChecks](https://modrinth.com/mod/uOzKOGGt) [1\.0\.0]
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.7\.6]
@@ -28,6 +29,7 @@
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [6\.2\.8]
 - [Entity View Distance](https://modrinth.com/mod/ihnBJ6on) [1\.3\.0\+1\.21]
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.7\.1]
+- [essential\-container](https://modrinth.com/mod/k2ZPuTBm) [1\.0\.0]
 - [FPS Reducer](https://modrinth.com/mod/iZ10HXDj) [1\.21\-2\.9]
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.102\.0\+1\.21]
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.0\+kotlin\.2\.1\.0]
@@ -82,8 +84,6 @@
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [24\.6\.1]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.39\.0]
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) [87\.0\.0]
-- [cupboard](https://www.curseforge.com/projects/326652) [1\.21\-2\.7]
-- [essential\-container](https://modrinth.com/mod/k2ZPuTBm) [1\.0\.0]
 
 ### **Client-side only**
 
