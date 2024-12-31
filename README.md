@@ -1,4 +1,11 @@
-## **Mod List for 1.21 Minecraft Neo-Generation by LucaGhostX**
+## **Datapacks (unedited) List for 1.21 Minecraft Neo-Generation by LucaGhostX**
+- [Terralith](https://modrinth.com/datapack/terralith)
+- [Incendium](https://modrinth.com/datapack/incendium)
+- [Nullscape](https://modrinth.com/datapack/nullscape)
+- [Structory](https://modrinth.com/datapack/structory)
+- [Custom Biome Sapling](https://modrinth.com/datapack/terralith-biome-saplings)
+
+## **Mods List for 1.21 Minecraft Neo-Generation by LucaGhostX**
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.7\.2]
 - [AchievementOptimizer](https://www.curseforge.com/projects/912788) [1\.21\-1\.1\.0]
 - [Advanced Shulkerboxes](https://modrinth.com/mod/PZAaSx6B) [1\.21\.1\-2\.0\.5]
@@ -99,6 +106,7 @@
 - [TT20](https://modrinth.com/mod/YS3ZignI) [0\.7\.0]
 - [ViaFabric](https://modrinth.com/mod/YlKdE5VK) [0\.4\.15\+78\-main]
 - [ViaVersion](https://modrinth.com/mod/P1OZGk5p) [5\.2\.0]
+
 
 ### **Mods that I built myself** (These mods aren't available for 1.21)
 
