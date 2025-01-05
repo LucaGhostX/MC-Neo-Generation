@@ -102,7 +102,7 @@
 - [Advanced Backups](https://modrinth.com/mod/Jrmoreqs) [3\.6\.4]
 - [Palladium](https://modrinth.com/mod/JNRr4jji) [1\.0\.9\.3]
 - [ToadLib](https://modrinth.com/mod/CYQ7VYrM) [1\.1\.6]
-- [TT20](https://modrinth.com/mod/YS3ZignI) [0\.7\.0]
+- [TT20](https://modrinth.com/mod/YS3ZignI) [0\.7\.1]
 - [ViaFabric](https://modrinth.com/mod/YlKdE5VK) [0\.4\.15\+78\-main]
 - [ViaVersion](https://modrinth.com/mod/P1OZGk5p) [5\.2\.0]
 
