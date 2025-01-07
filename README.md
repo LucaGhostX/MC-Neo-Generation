@@ -101,6 +101,8 @@
 ### **Server-side only**
 
 - [Advanced Backups](https://modrinth.com/mod/Jrmoreqs) [3\.6\.4]
+- [FabricProxy-Lite](https://modrinth.com/mod/fabricproxy-lite) [2\.9\.0]
+- [Floodgate](https://modrinth.com/mod/floodgate) [2\.2\.4\-b38]
 - [Palladium](https://modrinth.com/mod/JNRr4jji) [1\.0\.9\.3]
 - [ToadLib](https://modrinth.com/mod/CYQ7VYrM) [1\.1\.6]
 - [TT20](https://modrinth.com/mod/YS3ZignI) [0\.7\.1]
