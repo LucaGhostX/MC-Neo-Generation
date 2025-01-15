@@ -1,0 +1,170 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:barrier": [
+      {
+        "name": "gmdl_9b732bf",
+        "allow_offhand": true,
+        "icon": "gmdl_9b732bf",
+        "custom_model_data": 7142128
+      }
+    ],
+    "minecraft:bow": [
+      {
+        "name": "gmdl_382f12c",
+        "allow_offhand": true,
+        "icon": "gmdl_382f12c",
+        "custom_model_data": 7142128
+      }
+    ],
+    "minecraft:carved_pumpkin": [
+      {
+        "name": "gmdl_4e300c1",
+        "display_name":"doctor_full",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 10
+      },
+      {
+        "name": "gmdl_a155fbc",
+        "display_name":"doctor_head",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 11
+      },
+      {
+        "name": "gmdl_4c4f854",
+        "display_name":"doctor_body",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 12
+      },
+      {
+        "name": "gmdl_63fd22d",
+        "display_name":"tardis",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 13
+      }
+    ],
+    "minecraft:debug_stick": [
+      {
+        "name": "gmdl_1d8bf22",
+        "allow_offhand": true,
+        "icon": "gmdl_1aa9463",
+        "frame": 0,
+        "custom_model_data": 7142128
+      },
+      {
+        "name": "gmdl_1aa9463",
+        "allow_offhand": true,
+        "icon": "gmdl_1aa9463",
+        "custom_model_data": 7142129
+      }
+    ],
+    "minecraft:enchanted_book": [
+      {
+        "name": "gmdl_57c0b8c",
+        "allow_offhand": true,
+        "icon": "gmdl_690c8d1",
+        "frame": 0,
+        "custom_model_data": 7142128
+      },
+      {
+        "name": "gmdl_c504f1d",
+        "allow_offhand": true,
+        "icon": "gmdl_dd8b7af",
+        "frame": 0,
+        "custom_model_data": 7142129
+      },
+      {
+        "name": "gmdl_31a8f67",
+        "allow_offhand": true,
+        "icon": "gmdl_88b480b",
+        "frame": 0,
+        "custom_model_data": 7142130
+      },
+      {
+        "name": "gmdl_690c8d1",
+        "allow_offhand": true,
+        "icon": "gmdl_690c8d1",
+        "custom_model_data": 7142131
+      },
+      {
+        "name": "gmdl_dd8b7af",
+        "allow_offhand": true,
+        "icon": "gmdl_dd8b7af",
+        "custom_model_data": 7142132
+      },
+      {
+        "name": "gmdl_88b480b",
+        "allow_offhand": true,
+        "icon": "gmdl_88b480b",
+        "custom_model_data": 7142133
+      }
+    ],
+    "minecraft:mace": [
+      {
+        "name": "gmdl_b0b3e26",
+        "allow_offhand": true,
+        "icon": "gmdl_c9e75ef",
+        "frame": 0,
+        "custom_model_data": 7142128
+      },
+      {
+        "name": "gmdl_c9e75ef",
+        "allow_offhand": true,
+        "icon": "gmdl_c9e75ef",
+        "custom_model_data": 7142129
+      }
+    ],
+    "minecraft:netherite_axe": [
+      {
+        "name": "gmdl_5eaad63",
+        "allow_offhand": true,
+        "icon": "gmdl_5eaad63",
+        "custom_model_data": 7142128
+      }
+    ],
+    "minecraft:netherite_sword": [
+      {
+        "name": "gmdl_8d860c0",
+        "allow_offhand": true,
+        "icon": "gmdl_8d860c0",
+        "custom_model_data": 7142128
+      },
+      {
+        "name": "gmdl_e00f158",
+        "allow_offhand": true,
+        "icon": "gmdl_e00f158",
+        "custom_model_data": 7142129
+      }
+    ],
+    "minecraft:player_head": [
+      {
+        "name": "gmdl_4de2978",
+        "allow_offhand": true,
+        "icon": "gmdl_4de2978",
+        "custom_model_data": 7142128
+      },
+      {
+        "name": "gmdl_adcfd3c",
+        "allow_offhand": true,
+        "icon": "gmdl_adcfd3c",
+        "custom_model_data": 7142129
+      }
+    ],
+    "minecraft:white_stained_glass_pane": [
+      {
+        "name": "gmdl_fcaac38",
+        "allow_offhand": true,
+        "icon": "gmdl_fcaac38",
+        "custom_model_data": 7142128
+      }
+    ]
+  }
+}
