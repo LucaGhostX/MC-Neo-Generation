@@ -1,1 +1,1 @@
-## **Files create with https://github.com/Kas-tle/java2bedrock.sh **
+## **Files created with this [tool](https://github.com/Kas-tle/java2bedrock.sh)**
