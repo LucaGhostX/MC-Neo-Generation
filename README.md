@@ -105,6 +105,7 @@
 - [Floodgate](https://modrinth.com/mod/floodgate) [2\.2\.4\-b38]
 - [Palladium](https://modrinth.com/mod/JNRr4jji) [1\.0\.9\.3]
 - [ToadLib](https://modrinth.com/mod/CYQ7VYrM) [1\.1\.6]
+- [Skin Restorer](https://modrinth.com/mod/skinrestorer) [2\.2\.1\+1\.21]
 - [TT20](https://modrinth.com/mod/YS3ZignI) [0\.7\.1]
 - [ViaFabric](https://modrinth.com/mod/YlKdE5VK) [0\.4\.15\+78\-main]
 - [ViaVersion](https://modrinth.com/mod/P1OZGk5p) [5\.2\.0]
@@ -113,3 +114,6 @@
 
 - [Configurable Nether Portal](https://modrinth.com/mod/configurable-nether-portals)
 - [Know My Name!](https://modrinth.com/mod/know-my-name)
+
+
+## **If credits are missing let me know.**
