@@ -32,7 +32,7 @@
 - https://mc.voodoobeard.com/
 - https://www.youtube.com/user/voodoobeard
 
-###  **Enchantment Exctractor**
+###  **Enchantment Extractor**
 - Code by LucaGhostX
 - Features inspired by [Wyvernity's Enchantment+](https://www.planetminecraft.com/data-pack/enchantment-1-16/)
 - Part of the code made by [EinStGate](https://www.reddit.com/r/MinecraftCommands/comments/d6vybe/i_made_a_datapack_that_let_you_extract_each/)
