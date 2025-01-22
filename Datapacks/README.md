@@ -33,10 +33,10 @@
 - https://www.youtube.com/user/voodoobeard
 
 ###  **Enchantment Exctractor**
-Code by LucaGhostX
-Features inspired by [Wyvernity's Enchantment+](https://www.planetminecraft.com/data-pack/enchantment-1-16/)
-Part of the code made by [EinStGate](https://www.reddit.com/r/MinecraftCommands/comments/d6vybe/i_made_a_datapack_that_let_you_extract_each/)
-With the [fantastic help](https://www.reddit.com/r/MinecraftCommands/comments/1hmpbwn/i_wanna_extract_only_one_enchantment_121_how_can/) of [GalSergey](https://www.reddit.com/user/GalSergey/)
+- Code by LucaGhostX
+- Features inspired by [Wyvernity's Enchantment+](https://www.planetminecraft.com/data-pack/enchantment-1-16/)
+- Part of the code made by [EinStGate](https://www.reddit.com/r/MinecraftCommands/comments/d6vybe/i_made_a_datapack_that_let_you_extract_each/)
+- With the [fantastic help](https://www.reddit.com/r/MinecraftCommands/comments/1hmpbwn/i_wanna_extract_only_one_enchantment_121_how_can/) of [GalSergey](https://www.reddit.com/user/GalSergey/)
 
 ### **Other**
 - [Bundle](https://vanillatweaks.net/picker/datapacks/) [Original Code by VanillaTweaks]
