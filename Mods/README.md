@@ -105,3 +105,6 @@
 
 - [Configurable Nether Portal](https://modrinth.com/mod/configurable-nether-portals)
 - [Know My Name!](https://modrinth.com/mod/know-my-name)
+
+
+## **If credits are missing let me know.**
