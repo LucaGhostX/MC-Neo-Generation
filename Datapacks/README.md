@@ -26,7 +26,7 @@
 - Shulker Respawning
 - Trader Notify
 - Climbable Chain
-- Budding Amethyst Silk Touch
+- Silk Touch Budding Amethyst
  
 **Links**
 - https://mc.voodoobeard.com/
