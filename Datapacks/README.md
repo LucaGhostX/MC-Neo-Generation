@@ -40,6 +40,7 @@
 
 ### **Other**
 - [Bundle](https://vanillatweaks.net/picker/datapacks/) [Original Code by VanillaTweaks]
+- [Max Value of Vanilla Enchantment](https://github.com/Wyvernity/Enchantment-Plus/wiki/Increased-Vanilla-Enchantment-Levels) [Except for Thorns(level 7) and Unbreaking(level 10)]
 
 ## **Datapacks (unedited) List for 1.21 Minecraft Neo-Generation by LucaGhostX**
 
