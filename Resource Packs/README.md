@@ -1,8 +1,8 @@
 # **Resource Packs (edited) for 1.21 Minecraft Neo-Generation by LucaGhostX**
 **The supported and recommended versions of our R.P. are the Optifine variants. Other versions exist for compatibility.**
 
-## **Java Resorce Pack**
-### **Edited Resorce Pack**
+## **Java Resource Pack**
+### **Edited Resource Pack**
 - Magnet [Website](https://bisumto.it/redcraft2/) | [YT](https://www.youtube.com/@BisUmTo) | [1st Video](https://youtu.be/KVIxcL8rNC8?si=j59NFuW1kZ8h4iU1) | [2nd Video](https://youtu.be/KVIxcL8rNC8?si=j59NFuW1kZ8h4iU1)
 - [TARDIS](https://sketchfab.com/3d-models/whittaker-tardis-2-a8018893fd03416aa1625898c2fd98c2)
 - [10th Doctor](https://www.planetminecraft.com/skin/the-10th-doctor-4617651/)
@@ -14,13 +14,14 @@
 - [Rapier](https://www.planetminecraft.com/texture-pack/vini-s-roleplay-resourcepack/)
 - [Dark UI](https://vanillatweaks.net/picker/resource-packs/) | [Numbered Hotbar](https://vanillatweaks.net/picker/resource-packs/) | [Colorful Enchanting Table Particles](https://vanillatweaks.net/picker/resource-packs/)
 
-### **Unedited Resorce Pack**
+### **Unedited Resource Pack**
 - [Sparkles by Stardust Labs](https://modrinth.com/resourcepack/sparkles?version=1.21)
 
-## **Bedrock/GeyserMC Resorce Pack**
-### **Edited Resorce Pack**
+## **Bedrock/GeyserMC Resource Pack**
+### **Edited Resource Pack**
+- [Java2Bedrock Resource Pack Converter Tool](https://github.com/Kas-tle/java2bedrock.sh)
 - [Better Visual Coordinates](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/) [Changed Coordinate Color (Replaced file text with: "map.position=  §4%s, §2%s,§1 %s")]
-### **Unedited Resorce Pack**
+### **Unedited Resource Pack**
 - [Transparent Spyglass](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/)
 
 ## **If credits are missing let me know.**
