@@ -12,7 +12,7 @@
 - Ladders
 - Magnet
 - Nametags
- - Optimization
+- Optimization
  
 **Links**
 - https://bisumto.it/redcraft2/
