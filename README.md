@@ -32,7 +32,7 @@ The full list of available Datapacks for this project can be viewed [here](/Data
   - [Incendium](/Datapacks/README.md/#datapacks-unedited-list-for-121-minecraft-neo-generation-by-lucaghostx)
   - [Nullscape](/Datapacks/README.md/#datapacks-unedited-list-for-121-minecraft-neo-generation-by-lucaghostx)
 - **Vanilla Enchantments**
-  - [New Levels](/Datapacks/README.md/#other)
+  - [More Levels](/Datapacks/README.md/#other)
 - **New Enchantments**
   - Explosive Thorns
   - Miner's Light
