@@ -14,7 +14,7 @@ Welcome to **Minecraft Neo-Generation 1.21** by **[@LucaGhostX](https://github.c
 ---
 
 ## Introduction
-**Minecraft Neo-Generation 1.21** is a comprehensive project that combines resources packs, mods, and datapacks to enhance and customize Minecraft gameplay.
+**Minecraft Neo-Generation 1.21** is a project that combines resources packs, mods, and datapacks to enhance and customize Minecraft gameplay.
 
 ### Key Features:
 - New enchantments, new items, and new features.
