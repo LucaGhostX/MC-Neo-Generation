@@ -54,11 +54,18 @@ The full list of Mods used for the project is available [here](/Mods/README.md).
 
 ### Examples of Mods:
 - **Client-side Mods:**
-  - BetterF3, CIT Resewn, Sodium, Replay Mod.
+  - BetterF3
+  - CIT Resewn
+  - Sodium
+  - Replay Mod.
 - **Server-side Mods:**
-  - Advanced Backups, Floodgate, ViaVersion.
+  - Advanced Backups
+  - Floodgate
+  - ViaVersion.
 - **Performance & Optimization:**
-  - Dynamic FPS, Lithium, Krypton.
+  - Dynamic FPS
+  - Lithium
+  - Krypton.
 
 The mods use the **Fabric** loader and are compatible with Minecraft 1.21.
 
