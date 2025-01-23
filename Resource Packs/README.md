@@ -19,7 +19,7 @@
 
 ## **Bedrock/GeyserMC Resource Pack**
 ### **Edited Resource Pack**
-- [Java2Bedrock Resource Pack Converter Tool](https://github.com/Kas-tle/java2bedrock.sh)
+- [Java to Bedrock Resource Pack Converter Tool](https://github.com/Kas-tle/java2bedrock.sh)
 - [Better Visual Coordinates](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/) [Changed Coordinate Color (Replaced file text with: "map.position=  §4%s, §2%s,§1 %s")]
 ### **Unedited Resource Pack**
 - [Transparent Spyglass](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/)
