@@ -12,7 +12,7 @@
 - [Grappling Hook](https://www.curseforge.com/minecraft/texture-packs/grappling-hook-mod-retexture)
 - [Knife](https://www.planetminecraft.com/texture-pack/thorfinn-knife-vinland-saga/)
 - [Rapier](https://www.planetminecraft.com/texture-pack/vini-s-roleplay-resourcepack/)
-- [Dark UI | Numbered Hotbar | Colorful Enchanting Table Particles](https://vanillatweaks.net/picker/resource-packs/)
+- [Dark UI](https://vanillatweaks.net/picker/resource-packs/) | [Numbered Hotbar](https://vanillatweaks.net/picker/resource-packs/) | [Colorful Enchanting Table Particles](https://vanillatweaks.net/picker/resource-packs/)
 
 ### **Unedited Resorce Pack**
 - [Sparkles by Stardust Labs](https://modrinth.com/resourcepack/sparkles?version=1.21)
