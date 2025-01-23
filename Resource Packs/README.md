@@ -4,10 +4,10 @@
 ## **Java (unedited) Resorce Pack**
 - [Sparkles by Stardust Labs](https://modrinth.com/resourcepack/sparkles?version=1.21)
 
-## **Bedrock/GeyserMC (unedited) Resorce Pack**
+## **Bedrock/GeyserMC Resorce Pack**
+### **Unedited Resorce Pack**
 - [Transparent Spyglass](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/)
-
-## **Bedrock/GeyserMC (edited) Resorce Pack**
+### **Edited Resorce Pack**
 - [Better Visual Coordinates](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/) [Changed Coordinate Color (Replaced file text with: "map.position=  §4%s, §2%s,§1 %s")]
 
 
