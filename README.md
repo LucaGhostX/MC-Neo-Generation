@@ -56,12 +56,11 @@ The full list of Mods used for the project is available [here](/Mods).
 - **Client-side Mods:**
   - [BetterF3](/Mods)
   - [CIT Resewn](/Mods)
-  - [Sodium](/Mods)
   - [Replay Mod](/Mods)
 - **Server-side Mods:**
-  - [Advanced Backups](/Mods)
-  - [Floodgate](/Mods)
-  - [ViaVersion](/Mods)
+  - [Advanced Backups](/Mods/README.md/#server-side-only)
+  - [Floodgate](/Mods/README.md/#server-side-only)
+  - [ViaVersion](/Mods/README.md/#server-side-only)
 - **Performance & Optimization:**
   - [Dynamic FPS](/Mods)
   - [Lithium](/Mods)
