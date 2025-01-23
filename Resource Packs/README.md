@@ -23,5 +23,6 @@
 - [Better Visual Coordinates](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/) [Changed Coordinate Color (Replaced file text with: "map.position=  §4%s, §2%s,§1 %s")]
 ### **Unedited Resource Pack**
 - [Transparent Spyglass](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/)
+- [Clear Glass](https://www.planetminecraft.com/texture-pack/clear-glass-texture/)
 
 ## **If credits are missing let me know.**
