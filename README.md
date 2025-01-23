@@ -24,7 +24,7 @@ Welcome to **Minecraft Neo-Generation 1.21** by **[@LucaGhostX](https://github.c
 ---
 
 ## Datapacks
-The full list of available Datapacks for this project can be viewed [here](/Datapacks/README.md).
+The full list of available Datapacks for this project can be viewed [here](/Datapacks).
 
 ### Examples of Datapacks:
 - **New World Generation**
@@ -50,40 +50,40 @@ The full list of available Datapacks for this project can be viewed [here](/Data
 ---
 
 ## Mods
-The full list of Mods used for the project is available [here](/Mods/README.md).
+The full list of Mods used for the project is available [here](/Mods).
 
 ### Examples of Mods:
 - **Client-side Mods:**
-  - [BetterF3]
-  - [CIT Resewn]
-  - [Sodium]
-  - [Replay Mod]
+  - [BetterF3](/Mods)
+  - [CIT Resewn](/Mods)
+  - [Sodium](/Mods)
+  - [Replay Mod](/Mods)
 - **Server-side Mods:**
-  - [Advanced Backups]
-  - [Floodgate]
-  - [ViaVersion]
+  - [Advanced Backups](/Mods)
+  - [Floodgate](/Mods)
+  - [ViaVersion](/Mods)
 - **Performance & Optimization:**
-  - [Dynamic FPS]
-  - [Lithium]
-  - [Krypton]
+  - [Dynamic FPS](/Mods)
+  - [Lithium](/Mods)
+  - [Krypton](/Mods)
 
 The mods use the **Fabric** loader and are compatible with Minecraft 1.21.
 
 ---
 
 ## Resource Packs
-Find all the details about the Resource Packs [here](/Resource%20Packs/README.md).
+Find all the details about the Resource Packs [here](/Resource%20Packs).
 
 ### Examples of Resource Packs:
 - **Java Edition:**
   - [TARDIS](/Resource%20Packs)
-  - [Sonic Screwdriver]
-  - [Dark UI]
-  - [Colorful Enchanting Table Particles]
+  - [Sonic Screwdriver](/Resource%20Packs)
+  - [Dark UI](/Resource%20Packs)
+  - [Colorful Enchanting Table Particles](/Resource%20Packs)
 - **Bedrock Edition:**
-  - [Improved Visual Coordinates]
-  - [Transparent Spyglass]
-  - [Clear Glass Texture]
+  - [Improved Visual Coordinates](/Resource%20Packs)
+  - [Transparent Spyglass](/Resource%20Packs)
+  - [Clear Glass Texture](/Resource%20Packs)
 
 **The supported and recommended versions of our R.P. are the Optifine variants. Other versions exist for compatibility.**
 
