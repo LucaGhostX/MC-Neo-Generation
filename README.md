@@ -1,6 +1,6 @@
 # Minecraft Neo-Generation - 1.21
 
-Welcome to **Minecraft Neo-Generation 1.21** curated by **@LucaGhostX**. This project includes customized and optimized Datapacks, Mods, and Resource Packs.
+Welcome to **Minecraft Neo-Generation 1.21** curated by **[@LucaGhostX](https://github.com/LucaGhostX)**. This project includes customized and optimized Datapacks, Mods, and Resource Packs.
 
 ---
 
