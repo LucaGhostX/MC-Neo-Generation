@@ -3,7 +3,7 @@
 
 ## **Java Resorce Pack**
 ### **Edited Resorce Pack**
-- Magnet [Website](https://bisumto.it/redcraft2/)|[YT](https://www.youtube.com/@BisUmTo)|[1st Video](https://youtu.be/KVIxcL8rNC8?si=j59NFuW1kZ8h4iU1)|[2nd Video](https://youtu.be/KVIxcL8rNC8?si=j59NFuW1kZ8h4iU1)
+- Magnet [Website](https://bisumto.it/redcraft2/) | [YT](https://www.youtube.com/@BisUmTo) | [1st Video](https://youtu.be/KVIxcL8rNC8?si=j59NFuW1kZ8h4iU1) | [2nd Video](https://youtu.be/KVIxcL8rNC8?si=j59NFuW1kZ8h4iU1)
 - [TARDIS](https://sketchfab.com/3d-models/whittaker-tardis-2-a8018893fd03416aa1625898c2fd98c2)
 - [10th Doctor](https://www.planetminecraft.com/skin/the-10th-doctor-4617651/)
 - [Sonic Screwdriver](https://www.planetminecraft.com/texture-pack/9th-amp-10th-doc-s-sonic-screwdriver/)
@@ -12,7 +12,7 @@
 - [Grappling Hook](https://www.curseforge.com/minecraft/texture-packs/grappling-hook-mod-retexture)
 - [Knife](https://www.planetminecraft.com/texture-pack/thorfinn-knife-vinland-saga/)
 - [Rapier](https://www.planetminecraft.com/texture-pack/vini-s-roleplay-resourcepack/)
-- [Dark UI|Numbered Hotbar|Colorful Enchanting Table Particles](https://vanillatweaks.net/picker/resource-packs/)
+- [Dark UI | Numbered Hotbar | Colorful Enchanting Table Particles](https://vanillatweaks.net/picker/resource-packs/)
 
 ### **Unedited Resorce Pack**
 - [Sparkles by Stardust Labs](https://modrinth.com/resourcepack/sparkles?version=1.21)
