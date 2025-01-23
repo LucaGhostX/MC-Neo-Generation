@@ -54,18 +54,18 @@ The full list of Mods used for the project is available [here](/Mods/README.md).
 
 ### Examples of Mods:
 - **Client-side Mods:**
-  - BetterF3
-  - CIT Resewn
-  - Sodium
-  - Replay Mod
+  - [BetterF3]
+  - [CIT Resewn]
+  - [Sodium]
+  - [Replay Mod]
 - **Server-side Mods:**
-  - Advanced Backups
-  - Floodgate
-  - ViaVersion
+  - [Advanced Backups]
+  - [Floodgate]
+  - [ViaVersion]
 - **Performance & Optimization:**
-  - Dynamic FPS
-  - Lithium
-  - Krypton
+  - [Dynamic FPS]
+  - [Lithium]
+  - [Krypton]
 
 The mods use the **Fabric** loader and are compatible with Minecraft 1.21.
 
@@ -76,14 +76,14 @@ Find all the details about the Resource Packs [here](/Resource%20Packs/README.md
 
 ### Examples of Resource Packs:
 - **Java Edition:**
-  - TARDIS
-  - Sonic Screwdriver
-  - Dark UI
-  - Colorful Enchanting Table Particles
+  - [TARDIS](/Resource%20Packs)
+  - [Sonic Screwdriver]
+  - [Dark UI]
+  - [Colorful Enchanting Table Particles]
 - **Bedrock Edition:**
-  - Improved Visual Coordinates
-  - Transparent Spyglass
-  - Clear Glass Texture
+  - [Improved Visual Coordinates]
+  - [Transparent Spyglass]
+  - [Clear Glass Texture]
 
 **The supported and recommended versions of our R.P. are the Optifine variants. Other versions exist for compatibility.**
 
