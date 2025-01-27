@@ -39,7 +39,7 @@
 
 ### **Other**
 - [Bundle](https://vanillatweaks.net/picker/datapacks/) [Original Code by VanillaTweaks]
-- [Max Value of Vanilla Enchantment](https://github.com/Wyvernity/Enchantment-Plus/wiki/Increased-Vanilla-Enchantment-Levels) [Except for Thorns(level 7) and Unbreaking(level 10)]
+- [Max Levels of Vanilla Enchantment](https://github.com/Wyvernity/Enchantment-Plus/wiki/Increased-Vanilla-Enchantment-Levels) [Except for Thorns(level 7) and Unbreaking(level 10)]
 
 ### **If our datapack isn't available for download, it means it's in beta testing.**
 
