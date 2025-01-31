@@ -101,9 +101,9 @@
 - [ViaFabric](https://modrinth.com/mod/YlKdE5VK) [0\.4\.15\+78\-main]
 - [ViaVersion](https://modrinth.com/mod/P1OZGk5p) [5\.2\.0]
 
-### **Mods that I built myself** (These mods aren't available for 1.21)
+### **Mods that I built by myself** (These mods aren't available for 1.21)
 
 - [Configurable Nether Portal](https://modrinth.com/mod/configurable-nether-portals)
 - [Know My Name!](https://modrinth.com/mod/know-my-name)
 
-## **If credits are missing let me know.**
+## **If credits are missing, please let me know.**
