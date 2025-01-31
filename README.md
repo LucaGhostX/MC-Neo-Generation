@@ -91,6 +91,6 @@ Find all the details about the Resource Packs [here](/Resource%20Packs).
 ---
 
 ## Credits and Acknowledgments
-**If credits are missing let me know.** All files include references to credit developers, creators, and contributors.
+**If credits are missing, please let me know.** All files include references to credit developers, creators, and contributors.
 
 The distribution of exclusive features of this datapack is prohibited without consent.
