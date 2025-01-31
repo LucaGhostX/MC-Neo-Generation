@@ -53,4 +53,4 @@
 - [Structory](https://modrinth.com/datapack/structory)
 - [Custom Biome Sapling](https://modrinth.com/datapack/terralith-biome-saplings)
 
-## **If credits are missing let me know.**
+## **If credits are missing, please let me know.**

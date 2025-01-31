@@ -25,4 +25,4 @@
 - [Transparent Spyglass](https://www.planetminecraft.com/texture-pack/transparent-pumpkin-and-spyglass-effects/)
 - [Clear Glass](https://www.planetminecraft.com/texture-pack/clear-glass-texture/)
 
-## **If credits are missing let me know.**
+## **If credits are missing, please let me know.**
